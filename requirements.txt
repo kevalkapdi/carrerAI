@@ -1,0 +1,8 @@
+bcrypt
+pandas
+PyMuPDF
+plotly
+scikit-learn>=1.4,<2.0
+spacy
+reportlab
+streamlit
